@@ -20,21 +20,25 @@ Our project lifecycle follows five key phases: Initiation, Planning, Execution, 
 ## Project Management Docs Index
 
 - [Project Management Overview](octoacme-project-management-overview.md) - Core principles, roles, artifacts, and lifecycle overview
+- [Roles & Personas](octoacme-roles-and-personas.md) - Detailed definitions of team roles and responsibilities
 - [Project Initiation Guide](octoacme-project-initiation.md) - How to start a project with clear problem statements and stakeholder alignment
 - [Project Planning](octoacme-project-planning.md) - Scope definition, resource allocation, milestones, and dependencies
 - [Execution & Tracking](octoacme-execution-and-tracking.md) - Build, test, review, and iterate with clear progress tracking
 - [Risk Management & Communication](octoacme-risks-and-communication.md) - Identify, assess, and communicate risks effectively
 - [Release & Deployment Guide](octoacme-release-and-deployment.md) - Deploy, verify, and announce releases with confidence
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Capture learnings and drive process improvements
-- [Roles & Personas](octoacme-roles-and-personas.md) - Detailed definitions of team roles and responsibilities
+- [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md) - Ensure smooth handoffs between roles
+- [Role Onboarding Template](octoacme-role-onboarding-template.md) - Structured onboarding for new team members
 
 ## How to Use These Docs
 
 1. **New to OctoAcme?** Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our approach
-2. **Starting a project?** Follow the [Project Initiation Guide](octoacme-project-initiation.md) and [Project Planning](octoacme-project-planning.md)
-3. **Managing an active project?** Refer to [Execution & Tracking](octoacme-execution-and-tracking.md) and [Risk Management & Communication](octoacme-risks-and-communication.md)
-4. **Preparing for release?** Review the [Release & Deployment Guide](octoacme-release-and-deployment.md)
-5. **Learning from completed work?** Use the [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) guide
+2. **New to a role or project?** Use the [Role Onboarding Template](octoacme-role-onboarding-template.md) for structured onboarding
+3. **Starting a project?** Follow the [Project Initiation Guide](octoacme-project-initiation.md) and [Project Planning](octoacme-project-planning.md)
+4. **Managing an active project?** Refer to [Execution & Tracking](octoacme-execution-and-tracking.md) and [Risk Management & Communication](octoacme-risks-and-communication.md)
+5. **Collaborating across roles?** Review the [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoff-checklist.md)
+6. **Preparing for release?** Review the [Release & Deployment Guide](octoacme-release-and-deployment.md)
+7. **Learning from completed work?** Use the [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) guide
 
 ## Contributing
 
